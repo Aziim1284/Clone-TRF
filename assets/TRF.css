@@ -355,7 +355,7 @@ right: 0px;
       margin: 30px;
       width: 30%;
       /* box-shadow: 5px 5px 5px rgb(43, 41, 41 ), -5px -5px 5px rgb(43, 41, 41); */
-      transition: 3s ease infinite;
+      transition: 0.5s ease infinite;
     transition-property:right, green ;
       transition-property:inherit;
       
@@ -395,7 +395,7 @@ right: 0px;
      width: 30%;
     
      transition: ease-in-out ;
-     transition-duration: 3s;
+     transition-duration: 0.5s;
      transition-property:inherit;
 }
 .azii2>img{
@@ -430,7 +430,7 @@ right: 0px;
     width: 30%;
    
     transition: ease-out infinite ;
-    transition-duration: 3s;
+    transition-duration: 0.5s;
     transition-property:inherit;
 }
 .azii3>img{
@@ -463,7 +463,7 @@ right: 0px;
        margin: 30px;
        width: 30%;
        
-       transition: all 4s linear;
+       transition: all 0.5s linear;
        overflow: hidden;
      
        background: linear-gradient(rgb(240, 146, 6), rgb(70, 65, 65),white);
